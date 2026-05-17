@@ -1,5 +1,3 @@
-# GoIT Python Core Homework 4
-
 ## Tasks:
 1. Salary calculator
 2. Cats info parser
