@@ -1,0 +1,5 @@
+Alex Korp,3000
+Nikita Borisenko,2000
+Sitarama Raju,1000
+Maryna Slavioglo,6000.94
+Vadym Slavioglo,-2323.34
